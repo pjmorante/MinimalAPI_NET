@@ -1,4 +1,6 @@
-﻿namespace MagicVilla_CouponAPI.Models.DTO
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MagicVilla_CouponAPI.Models.DTO
 {
     public class CouponCreateDTO
     {
